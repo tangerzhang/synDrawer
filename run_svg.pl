@@ -37,7 +37,7 @@ while(<IN>){
 	}
 close IN;
 
-my $image = SVG->new(width=>10000,height=>10000); 
+my $image = SVG->new(width=>1000,height=>2000); 
 my $bin = 100;
 my $x = $bin;
 my $y = 0.5 * $bin;
