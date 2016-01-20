@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg height="10000" width="10000" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<text style="font: Times New Roman; font-size: 12" transform="rotate(-30,100,100)" x="100" y="100">LA104O01_Ctg1_BES_R</text>
+	<polygon points="200,100 210,90 210,94 300,94 300,106 210,106 210,110 " style="fill: darkgrey; fill-opacity: 1; stroke: black; stroke-opacity: 0; stroke-width: 0" />
+	<text style="font: Arial; font-size: 12" transform="rotate(0,200.00,85.00)" x="200.00" y="85.00">SuBAC0000010</text>
+	<polygon points="400,100 410,90 410,94 500,94 500,106 410,106 410,110 " style="fill: darkgrey; fill-opacity: 1; stroke: black; stroke-opacity: 0; stroke-width: 0" />
+	<text style="font: Arial; font-size: 12" transform="rotate(0,400.00,85.00)" x="400.00" y="85.00">SuBAC0000020</text>
+	<polygon points="600,94 690,94 690,90 700,100 690,110 690,106 600,106 " style="fill: red; fill-opacity: 1; stroke: black; stroke-opacity: 0; stroke-width: 0" />
+	<text style="font: Arial; font-size: 12" transform="rotate(0,600.00,85.00)" x="600.00" y="85.00">SuBAC0000030</text>
+	<polygon points="800,94 890,94 890,90 900,100 890,110 890,106 800,106 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 0; stroke-width: 0" />
+	<text style="font: Arial; font-size: 12" transform="rotate(0,800.00,85.00)" x="800.00" y="85.00">SuBAC0000040</text>
+	<text style="font: Times New Roman; font-size: 12" transform="rotate(-30,100,150)" x="100" y="150">LA33C13</text>
+	<polygon points="200,144 290,144 290,140 300,150 290,160 290,156 200,156 " style="fill: chocolate; fill-opacity: 1; stroke: black; stroke-opacity: 0; stroke-width: 0" />
+	<text style="font: Arial; font-size: 12" transform="rotate(0,200.00,135.00)" x="200.00" y="135.00">SuBAC0000200</text>
+	<polygon points="400,144 490,144 490,140 500,150 490,160 490,156 400,156 " style="fill: red; fill-opacity: 1; stroke: black; stroke-opacity: 0; stroke-width: 0" />
+	<text style="font: Arial; font-size: 12" transform="rotate(0,400.00,135.00)" x="400.00" y="135.00">SuBAC0000210</text>
+	<polygon points="600,144 690,144 690,140 700,150 690,160 690,156 600,156 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 0; stroke-width: 0" />
+	<text style="font: Arial; font-size: 12" transform="rotate(0,600.00,135.00)" x="600.00" y="135.00">SuBAC0000220</text>
+	<polygon points="800,144 890,144 890,140 900,150 890,160 890,156 800,156 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 0; stroke-width: 0" />
+	<text style="font: Arial; font-size: 12" transform="rotate(0,800.00,135.00)" x="800.00" y="135.00">SuBAC0000230</text>
+	<polygon points="1000,144 1090,144 1090,140 1100,150 1090,160 1090,156 1000,156 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 0; stroke-width: 0" />
+	<text style="font: Arial; font-size: 12" transform="rotate(0,1000.00,135.00)" x="1000.00" y="135.00">SuBAC0000240</text>
+	<polygon points="1200,144 1290,144 1290,140 1300,150 1290,160 1290,156 1200,156 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 0; stroke-width: 0" />
+	<text style="font: Arial; font-size: 12" transform="rotate(0,1200.00,135.00)" x="1200.00" y="135.00">SuBAC0000250</text>
+	<polygon points="1400,144 1490,144 1490,140 1500,150 1490,160 1490,156 1400,156 " style="fill: darkgrey; fill-opacity: 1; stroke: black; stroke-opacity: 0; stroke-width: 0" />
+	<text style="font: Arial; font-size: 12" transform="rotate(0,1400.00,135.00)" x="1400.00" y="135.00">SuBAC0000260</text>
+	<text style="font: Times New Roman; font-size: 12" transform="rotate(-30,100,200)" x="100" y="200">LA75F14</text>
+	<polygon points="200,194 290,194 290,190 300,200 290,210 290,206 200,206 " style="fill: red; fill-opacity: 1; stroke: black; stroke-opacity: 0; stroke-width: 0" />
+	<text style="font: Arial; font-size: 12" transform="rotate(0,200.00,185.00)" x="200.00" y="185.00">SuBAC0000330</text>
+	<text style="font: Times New Roman; font-size: 12" transform="rotate(-30,100,250)" x="100" y="250">SES41F02</text>
+	<polygon points="200,250 210,240 210,244 300,244 300,256 210,256 210,260 " style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 0; stroke-width: 0" />
+	<text style="font: Arial; font-size: 12" transform="rotate(0,200.00,235.00)" x="200.00" y="235.00">SuBAC0000680</text>
+	<polygon points="400,250 410,240 410,244 500,244 500,256 410,256 410,260 " style="fill: red; fill-opacity: 1; stroke: black; stroke-opacity: 0; stroke-width: 0" />
+	<text style="font: Arial; font-size: 12" transform="rotate(0,400.00,235.00)" x="400.00" y="235.00">SuBAC0000690</text>
+	<polygon points="600,250 610,240 610,244 700,244 700,256 610,256 610,260 " style="fill: chocolate; fill-opacity: 1; stroke: black; stroke-opacity: 0; stroke-width: 0" />
+	<text style="font: Arial; font-size: 12" transform="rotate(0,600.00,235.00)" x="600.00" y="235.00">SuBAC0000700</text>
+	<!-- 
+	Generated using the Perl SVG Module V2.64
+	by Ronan Oger
+	Info: http://www.roitsystems.com/
+ -->
+</svg>
